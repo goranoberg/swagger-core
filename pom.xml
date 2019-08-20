@@ -447,7 +447,7 @@
             <dependency>
                 <groupId>com.fasterxml.jackson.core</groupId>
                 <artifactId>jackson-databind</artifactId>
-                <version>${jackson-version}</version>
+                <version>${jackson-databind-version}</version>
             </dependency>
             <dependency>
                 <groupId>com.fasterxml.jackson.core</groupId>
@@ -503,6 +503,7 @@
         <servlet-api-version>3.1.0</servlet-api-version>
         <jersey2-version>2.26</jersey2-version>
         <jackson-version>2.9.9</jackson-version>
+        <jackson-databind-version>2.9.9.3</jackson-databind-version>
         <logback-version>1.2.3</logback-version>
         <classgraph-version>4.6.32</classgraph-version>
         <guava-version>27.0.1-jre</guava-version>
